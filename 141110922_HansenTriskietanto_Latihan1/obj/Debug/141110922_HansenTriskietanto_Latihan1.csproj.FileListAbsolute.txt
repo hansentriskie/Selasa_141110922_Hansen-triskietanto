@@ -1,1 +1,2 @@
 D:\kuliah\framework\141110922_HansenTriskietanto_Latihan1\141110922_HansenTriskietanto_Latihan1\bin\Debug\141110922_HansenTriskietanto_Latihan1.exe.config
+D:\kuliah\framework\Selasa_141110922_Hansen-triskietanto\141110922_HansenTriskietanto_Latihan1\bin\Debug\141110922_HansenTriskietanto_Latihan1.exe.config
