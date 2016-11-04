@@ -19,6 +19,7 @@ namespace latihan1_2
 
         private void vScrollBar1_Scroll(object sender, ScrollEventArgs e)
         {
+	    //label1
             label1.Text = vScrollBar1.Value.ToString();
             DTP.MaxDate = DateTime.Today.AddYears(vScrollBar1.Value);
         }
