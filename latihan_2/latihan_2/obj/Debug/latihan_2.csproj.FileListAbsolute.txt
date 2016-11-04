@@ -1,1 +1,2 @@
 D:\kuliah\framework\latihan_2\latihan_2\bin\Debug\latihan_2.exe.config
+D:\kuliah\framework\Selasa_141110922_Hansen-triskietanto\latihan_2\latihan_2\bin\Debug\latihan_2.exe.config
