@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_1_1", "D:\Kuliah\Semester V\C#\Senin_141110868_Stephen-master\Latihan_1_1\Latihan_1_1.csproj", "{B6139897-4DB0-4BF4-9606-5454E400D91B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_2_1", "D:\Kuliah\Semester V\C#\Senin_141110868_Stephen-master\Latihan_2_1\Latihan_2_1.csproj", "{655EE059-B918-40B7-B0DF-C025DC8E2AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_3_1", "D:\Kuliah\Semester V\C#\Senin_141110868_Stephen-master\Latihan_3_1\Latihan_3_1.csproj", "{A33BA0BD-6D9C-43D7-BA36-BAC0A5E1D78E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_4_1", "D:\Kuliah\Semester V\C#\Senin_141110868_Stephen-master\Latihan_4_1\Latihan_4_1.csproj", "{12E8182F-D254-45E1-9579-C9FE3BBD3193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_5_1", "D:\Kuliah\Semester V\C#\Senin_141110868_Stephen-master\Latihan_5_1\Latihan_5_1.csproj", "{6DA6FA11-741F-4D1E-A252-2BBDDA463EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6139897-4DB0-4BF4-9606-5454E400D91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6139897-4DB0-4BF4-9606-5454E400D91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6139897-4DB0-4BF4-9606-5454E400D91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6139897-4DB0-4BF4-9606-5454E400D91B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655EE059-B918-40B7-B0DF-C025DC8E2AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655EE059-B918-40B7-B0DF-C025DC8E2AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655EE059-B918-40B7-B0DF-C025DC8E2AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655EE059-B918-40B7-B0DF-C025DC8E2AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A33BA0BD-6D9C-43D7-BA36-BAC0A5E1D78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33BA0BD-6D9C-43D7-BA36-BAC0A5E1D78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33BA0BD-6D9C-43D7-BA36-BAC0A5E1D78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33BA0BD-6D9C-43D7-BA36-BAC0A5E1D78E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E8182F-D254-45E1-9579-C9FE3BBD3193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E8182F-D254-45E1-9579-C9FE3BBD3193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E8182F-D254-45E1-9579-C9FE3BBD3193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E8182F-D254-45E1-9579-C9FE3BBD3193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA6FA11-741F-4D1E-A252-2BBDDA463EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA6FA11-741F-4D1E-A252-2BBDDA463EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA6FA11-741F-4D1E-A252-2BBDDA463EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA6FA11-741F-4D1E-A252-2BBDDA463EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
