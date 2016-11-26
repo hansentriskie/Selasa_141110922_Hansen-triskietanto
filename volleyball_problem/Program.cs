@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Selasa_HansenTriskietanto_141110922
+namespace volleyball_problem
 {
     static class Program
     {

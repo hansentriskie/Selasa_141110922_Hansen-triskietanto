@@ -1,0 +1,8 @@
+D:\kuliah\framework\Selasa_141110922_Hansen-triskietanto-master\volleyball_problem\bin\Debug\volleyball_problem.exe.config
+D:\kuliah\framework\Selasa_141110922_Hansen-triskietanto-master\volleyball_problem\bin\Debug\volleyball_problem.exe
+D:\kuliah\framework\Selasa_141110922_Hansen-triskietanto-master\volleyball_problem\bin\Debug\volleyball_problem.pdb
+D:\kuliah\framework\Selasa_141110922_Hansen-triskietanto-master\volleyball_problem\obj\Debug\volleyball_problem.Form1.resources
+D:\kuliah\framework\Selasa_141110922_Hansen-triskietanto-master\volleyball_problem\obj\Debug\volleyball_problem.Properties.Resources.resources
+D:\kuliah\framework\Selasa_141110922_Hansen-triskietanto-master\volleyball_problem\obj\Debug\volleyball_problem.csproj.GenerateResource.Cache
+D:\kuliah\framework\Selasa_141110922_Hansen-triskietanto-master\volleyball_problem\obj\Debug\volleyball_problem.exe
+D:\kuliah\framework\Selasa_141110922_Hansen-triskietanto-master\volleyball_problem\obj\Debug\volleyball_problem.pdb
